@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi 👋 I'm Aman Kumar
 
-<!--
-**amankumar96617/amankumar96617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student with an interest in Web Development and IoT.
+I enjoy building simple and practical projects to improve my skills.
 
-Here are some ideas to get you started:
+🔹 Skills:
+- HTML, CSS, JavaScript
+- React.js (Basics)
+- Node.js, MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Projects:
+- Bihar Tourism Website – A responsive tourism website built using HTML, CSS, and JavaScript
+
+🔹 Internship:
+- IoT Internship (Training) – Worked on sensor-based IoT projects and hardware–software integration
+
+📫 Connect with me on LinkedIn
